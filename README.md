@@ -8,7 +8,7 @@ Sorts csv records with BubbleSort, InsertionSort, MergeSort, QuickSort, Selectio
 Enter sales by month an get some basic annual statistics (Annual, Average, Highest Month, Highest Sales, Lowest Month, Lowest Sales).
 
 ### KidsGreen2
-Got tired of filling out a long Questionare 5 days a week for 3 kids just to say, "No, they don't have covid." So I build a web automated program to:
+Got tired of filling out a long Questionare 5 days a week for 3 kids just to say, "No, they don't have covid." So I build a web automated program to:\n
   -open the web
   -fill all of them out
   -save the green pass image
