@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class main {
+public class annualSales {
 
     public static void main(String[] args) {
 
@@ -27,6 +27,7 @@ public class main {
         do{
             System.out.println("""
                     Please make a selection:
+
                     1) Enter Sales Reports
                     2) Sales Overview
                     0) Exit
