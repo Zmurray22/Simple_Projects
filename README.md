@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Enter sales by month an get some basic annual statistics (Annual, Average, Highest Month, Highest Sales, Lowest Month, Lowest Sales).
 
 ### KidsGreen2
-&nbsp;&nbsp;&nbsp;&nbsp;Got tired of filling out a long Questionare 5 days a week for 3 kids just to say, "No, they don't have covid." So I built a web automated program &nbsp;&nbsp;&nbsp;&nbsp;to:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Got tired of filling out a long Questionare 5 days a week for 3 kids just to say, "No, they don't have covid." So I built a web automated &nbsp;&nbsp;&nbsp;&nbsp;program to:<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;-open the web<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;-fill all of them out<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;-save the green pass image<br/>
