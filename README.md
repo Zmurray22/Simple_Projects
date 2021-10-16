@@ -14,3 +14,6 @@ Got tired of filling out a long Questionare 5 days a week for 3 kids just to say
   -save the green pass image
   -crop it
   -then save it on my cloud drive for mobile access.
+
+### Workload Calculator
+Calculator that takes number of cases and number of workers to tell me how much time it will take for my team to finish for the day.
