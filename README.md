@@ -9,11 +9,11 @@ Enter sales by month an get some basic annual statistics (Annual, Average, Highe
 
 ### KidsGreen2
 Got tired of filling out a long Questionare 5 days a week for 3 kids just to say, "No, they don't have covid." So I build a web automated program to:<br/>
-  -open the web
-  -fill all of them out
-  -save the green pass image
-  -crop it
-  -then save it on my cloud drive for mobile access.
+  -open the web<br/>
+  -fill all of them out<br/>
+  -save the green pass image<br/>
+  -crop it<br/>
+  -then save it on my cloud drive for mobile access.<br/>
 
 ### Workload Calculator
 Calculator that takes number of cases and number of workers to tell me how much time it will take for my team to finish for the day.
