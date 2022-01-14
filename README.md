@@ -18,4 +18,5 @@
 ### Workload Calculator
 &nbsp;&nbsp;&nbsp;&nbsp;Calculator that takes number of cases and number of workers to tell me how much time it will take for my team to finish for the day.
 
-###HealthProfiler
+### HealthProfiler
+&nbsp;&nbsp;&nbsp;&nbsp;Calculator with error checking to get Max Heart Rate, BMI percentage and category.
